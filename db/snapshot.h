@@ -6,7 +6,6 @@
 #define STORAGE_LEVELDB_DB_SNAPSHOT_H_
 
 #include "leveldb/db.h"
-#include <iostream>
 
 
 namespace leveldb {
